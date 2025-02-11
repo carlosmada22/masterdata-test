@@ -1,4 +1,4 @@
-# masterdata-example
+# garbanzo
 
 A short description for the masterdata project.
 
@@ -20,7 +20,7 @@ uv pip install -e '.[dev]'
 
 ## Development
 
-Once you have the skeleton of the Masterdata repository, you can define new classes in the corresponding file under `src/masterdata_example/`.
+Once you have the skeleton of the Masterdata repository, you can define new classes in the corresponding file under `src/garbanzo/`.
 
 In case of Python, these are different modules for Object Types, Property Types, and Vocabularies.
 

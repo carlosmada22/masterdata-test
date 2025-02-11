@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/BAMresearch/masterdata-generator",
+  "commit": "a75d739b221048f4f1359521be3bac39ffcb3a3d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author": "Carlos Madariaga",
+      "email": "carlos.madariaga@bam.de",
+      "github_username": "BAMResearch",
+      "project_name": "masterdata-example",
+      "module_name": "masterdata_example",
+      "short_description": "A short description for the masterdata project.",
+      "include_python_masterdata": true,
+      "include_excel_masterdata": true,
+      "include_rdfxml_masterdata": true,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/BAMresearch/masterdata-generator",
+      "_commit": "a75d739b221048f4f1359521be3bac39ffcb3a3d"
+    }
+  },
+  "directory": null
+}
